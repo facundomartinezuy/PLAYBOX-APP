@@ -1,8 +1,11 @@
 {
-  "versionCode": 77,
-  "versionName": "77.0",
+  "versionCode": 78,
+  "versionName": "78.0",
   "forzarActualizacion": true,
+  "publishedByAdmin": true,
   "apkUrl": "https:\/\/raw.githubusercontent.com\/facundomartinezuy\/PLAYBOX-APP\/main\/playbox.apk",
-  "apkSha256": "20bda6630d5c9bee1cb7b5665a8ce7838aa14e353cbcc4775c7b7fda0234693d",
-  "updatedAt": 1794602586326
+  "apkSha256": "5a984e0325c0364041b8ebdb10bfc82445a8fa7f66f1f6433dc4fc03f5e59f03",
+  "apkBlobSha": "c0368d0d91502e3d0d5fffce13d75c7492269098",
+  "apkSize": 16760061,
+  "updatedAt": 1794606534836
 }
