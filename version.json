@@ -1,7 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "75.0",
+  "versionCode": 77,
+  "versionName": "77.0",
   "forzarActualizacion": true,
   "apkUrl": "https:\/\/raw.githubusercontent.com\/facundomartinezuy\/PLAYBOX-APP\/main\/playbox.apk",
-  "updatedAt": 1794549481354
+  "apkSha256": "20bda6630d5c9bee1cb7b5665a8ce7838aa14e353cbcc4775c7b7fda0234693d",
+  "updatedAt": 1794602586326
 }
